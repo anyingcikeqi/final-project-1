@@ -2,7 +2,7 @@
 基于超分辨率与高动态范围成像技术中国海洋大学校史图像处理 
                        项目报告
                宫政和  鲍斌  李培立  吕浩擎
-
+项目报告word版在主页 CV项目报告.docx文件  内有配图 
 b站视频链接：【CV汇报-基于超分辨率与高动态范围成像技术中国海洋大学校史图像处理】 https://www.bilibili.com/video/BV1f6421f7Ta/?share_source=copy_web&vd_source=fd93408b02c89d495b8aa874cd0f59fb
 描述项目的介绍、文献综述、方法实现等内容。
 绪论
