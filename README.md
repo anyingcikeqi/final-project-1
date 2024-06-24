@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8oH8aWc3)
 基于超分辨率与高动态范围成像技术中国海洋大学校史图像处理 
                        项目报告
-               宫政和  鲍斌  李培立  吕浩擎
+               宫政和  鲍斌  李培立  吕昊擎
 项目报告word版在主页 CV项目报告.docx文件  内有配图 
 b站视频链接：【CV汇报-基于超分辨率与高动态范围成像技术中国海洋大学校史图像处理】 https://www.bilibili.com/video/BV1f6421f7Ta/?share_source=copy_web&vd_source=fd93408b02c89d495b8aa874cd0f59fb
 描述项目的介绍、文献综述、方法实现等内容。
@@ -257,7 +257,7 @@ SSIM是一种衡量两幅图像相似度的指标。主要比较的是两幅图�
 组员：
 鲍斌：实现生成仅包含真实图像的元数据信息、生成配对图像的元数据信息、对图像进行选择性反射率缩放处理、实现VIG算法。  贡献度：15%
 李培立：实现为真实图像生成多尺度版本，并使用LANCZOS重采样方法进行处理、将PyTorch模型转换为ONNX模型、伪DHR算法实现。  贡献度：15%
-吕浩擎：进行Real-ESRGAN模型的训练和推理、基于PyTorch的RealESRGAN模型的实现、多曝光图像的亮度调整、权重图的生成与应用  贡献度：15%
+吕昊擎：进行Real-ESRGAN模型的训练和推理、基于PyTorch的RealESRGAN模型的实现、多曝光图像的亮度调整、权重图的生成与应用  贡献度：15%
 
 引用参考 
 [1]张红英,朱恩弘,吴亚东.一种基于细节层分离的单曝光HDR图像生成算法[J].自动化学报,2019,45(11):2159-2170.DOI:10.16383/j.aas.2018.c170233.
